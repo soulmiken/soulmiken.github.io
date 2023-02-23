@@ -1,0 +1,33 @@
+
+img.icono {
+    margin-left: 30%;
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    height: auto;
+    margin-bottom: -5%;
+    margin-top: -5%
+   
+}
+
+
+.franja {
+    justify-content: center;
+    display: flex;
+    margin-left: 10%;
+    width: 80%;
+    margin-bottom: -10%
+   
+}
+
+div.botones{
+display: flex;
+justify-content: center;
+ 
+}
+
+.boton{
+ width: 50%;
+    height: 50%;
+}
+
