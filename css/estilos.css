@@ -1,12 +1,10 @@
 
 img.icono {
-    margin-left: 30%;
+    margin-left: 40%;
     display: flex;
     justify-content: center;
-    width: 40%;
+    width: 20%;
     height: auto;
-    margin-bottom: -5%;
-    margin-top: -5%
    
 }
 
@@ -20,14 +18,25 @@ img.icono {
    
 }
 
-div.botones{
+.botones{
 display: flex;
 justify-content: center;
  
 }
 
+a.botones{
+margin-bottom: -5%
+}
+
 .boton{
- width: 50%;
+
     height: 50%;
 }
+
+.wifi{
+width: 30%;
+height:auto;
+}
+
+
 
