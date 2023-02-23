@@ -12,8 +12,7 @@ img.icono {
 .franja {
     justify-content: center;
     display: flex;
-    margin-left: 10%;
-    width: 80%;
+    width: 100%;
     margin-bottom: -10%
    
 }
