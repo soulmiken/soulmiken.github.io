@@ -1,0 +1,41 @@
+
+img.icono {
+    margin-left: 40%;
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    height: auto;
+   
+}
+
+
+.franja {
+    justify-content: center;
+    display: flex;
+    width: 110%;
+    margin-bottom: -10%
+   
+}
+
+.botones{
+display: flex;
+justify-content: center;
+ 
+}
+
+a.botones{
+margin-bottom: -5%
+}
+
+.boton{
+
+    height: 50%;
+}
+
+.wifi{
+width: 30%;
+height:auto;
+}
+
+
+
